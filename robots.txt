@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://moothoupe.rosado.cc/sitemap.xml
